@@ -16,7 +16,7 @@
 # Green..........Finished
 #
 # See nmap --help for options. Default "-sP" ping scans the address space for
-# fast host discovery.
+# fast host discovery. tt
 
 NMAP_OPTIONS="-sP"
 LOOT_DIR=/root/loot/nmap
